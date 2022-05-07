@@ -1,0 +1,6 @@
+2022-05-08 00:31:30.336 | INFO     | __main__:<module>:71 - {'PAD': 0, 'UNK': 1, 'batch_size': 32, 'epochs': 30, 'layers': 6, 'heads': 8, 'd_model': 256, 'd_ff': 1024, 'dropout': 0.1, 'max_len': 512, 'max_vocab_size': 50000.0, 'processor_path': 'checkpoints/processor.pkl', 'train_file': 'nmt/en-cn/train.txt', 'dev_file': 'nmt/en-cn/dev.txt', 'saved_path': 'checkpoints/model.pth', 'device': device(type='cuda', index=0)}
+2022-05-08 00:31:30.336 | INFO     | __main__:<module>:78 - Successfully load processor...
+2022-05-08 00:31:35.094 | INFO     | __main__:<module>:100 - >>>>>>> start train
+2022-05-08 00:31:35.597 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 0 Loss: 7.934660 Tokens per Sec: 1.388393s
+2022-05-08 00:31:41.569 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 50 Loss: 6.959686 Tokens per Sec: 2.945676s
+2022-05-08 00:31:47.537 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 100 Loss: 6.262358 Tokens per Sec: 2.962023s

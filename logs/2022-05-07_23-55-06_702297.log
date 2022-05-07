@@ -1,0 +1,484 @@
+2022-05-07 23:55:06.704 | INFO     | __main__:<module>:77 - Successfully load processor...
+2022-05-07 23:55:11.390 | INFO     | __main__:<module>:99 - >>>>>>> start train
+2022-05-07 23:55:11.876 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 0 Loss: 7.936798 Tokens per Sec: 1.505041s
+2022-05-07 23:55:17.135 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 50 Loss: 6.988060 Tokens per Sec: 3.361658s
+2022-05-07 23:55:22.505 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 100 Loss: 6.238000 Tokens per Sec: 3.266759s
+2022-05-07 23:55:28.014 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 150 Loss: 5.560369 Tokens per Sec: 3.207484s
+2022-05-07 23:55:33.289 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 200 Loss: 5.277463 Tokens per Sec: 3.313447s
+2022-05-07 23:55:38.500 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 250 Loss: 5.026580 Tokens per Sec: 3.348285s
+2022-05-07 23:55:43.772 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 300 Loss: 4.824001 Tokens per Sec: 3.297553s
+2022-05-07 23:55:49.164 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 350 Loss: 4.639314 Tokens per Sec: 3.225419s
+2022-05-07 23:55:54.450 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 400 Loss: 4.769381 Tokens per Sec: 3.323395s
+2022-05-07 23:55:59.880 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 450 Loss: 4.552957 Tokens per Sec: 3.239988s
+2022-05-07 23:56:00.208 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-07 23:56:00.348 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 0 Loss: 3.660507 Tokens per Sec: 2.823974s
+2022-05-07 23:56:03.795 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 50 Loss: 4.763471 Tokens per Sec: 4.838890s
+2022-05-07 23:56:04.125 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 4.285038
+2022-05-07 23:56:04.241 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-07 23:56:04.242 | INFO     | __main__:train:60 - Epoch 0 Done
+2022-05-07 23:56:04.475 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 0 Loss: 4.211275 Tokens per Sec: 3.026694s
+2022-05-07 23:56:09.850 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 50 Loss: 4.039636 Tokens per Sec: 3.233683s
+2022-05-07 23:56:15.494 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 100 Loss: 4.175737 Tokens per Sec: 3.133512s
+2022-05-07 23:56:20.854 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 150 Loss: 4.319273 Tokens per Sec: 3.279670s
+2022-05-07 23:56:26.117 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 200 Loss: 3.937059 Tokens per Sec: 3.323694s
+2022-05-07 23:56:31.428 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 250 Loss: 3.989996 Tokens per Sec: 3.274830s
+2022-05-07 23:56:36.712 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 300 Loss: 3.845216 Tokens per Sec: 3.335171s
+2022-05-07 23:56:41.993 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 350 Loss: 4.182632 Tokens per Sec: 3.307097s
+2022-05-07 23:56:47.589 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 400 Loss: 3.570920 Tokens per Sec: 3.103527s
+2022-05-07 23:56:53.001 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 450 Loss: 3.480520 Tokens per Sec: 3.280391s
+2022-05-07 23:56:53.326 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-07 23:56:53.464 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 0 Loss: 2.871162 Tokens per Sec: 2.858252s
+2022-05-07 23:56:57.085 | INFO     | __main__:run_epoch:29 - Epoch 1 Batch: 50 Loss: 3.974179 Tokens per Sec: 4.607152s
+2022-05-07 23:56:57.500 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 3.446729
+2022-05-07 23:56:57.618 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-07 23:56:57.618 | INFO     | __main__:train:60 - Epoch 1 Done
+2022-05-07 23:56:57.843 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 0 Loss: 3.672750 Tokens per Sec: 3.231802s
+2022-05-07 23:57:03.528 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 50 Loss: 3.558321 Tokens per Sec: 3.106630s
+2022-05-07 23:57:09.491 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 100 Loss: 3.486774 Tokens per Sec: 2.940357s
+2022-05-07 23:57:15.808 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 150 Loss: 3.095634 Tokens per Sec: 2.781874s
+2022-05-07 23:57:23.420 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 200 Loss: 3.272511 Tokens per Sec: 2.302419s
+2022-05-07 23:57:29.200 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 250 Loss: 3.223126 Tokens per Sec: 3.038969s
+2022-05-07 23:57:35.102 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 300 Loss: 3.485837 Tokens per Sec: 2.953974s
+2022-05-07 23:57:41.050 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 350 Loss: 3.275748 Tokens per Sec: 2.941399s
+2022-05-07 23:57:47.727 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 400 Loss: 3.176883 Tokens per Sec: 2.594732s
+2022-05-07 23:57:54.552 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 450 Loss: 3.428019 Tokens per Sec: 2.587862s
+2022-05-07 23:57:54.955 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-07 23:57:55.135 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 0 Loss: 2.407104 Tokens per Sec: 2.191384s
+2022-05-07 23:57:59.249 | INFO     | __main__:run_epoch:29 - Epoch 2 Batch: 50 Loss: 3.596722 Tokens per Sec: 4.054728s
+2022-05-07 23:57:59.664 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 2.980076
+2022-05-07 23:57:59.813 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-07 23:57:59.813 | INFO     | __main__:train:60 - Epoch 2 Done
+2022-05-07 23:58:00.074 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 0 Loss: 2.883556 Tokens per Sec: 2.676839s
+2022-05-07 23:58:06.498 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 50 Loss: 2.812191 Tokens per Sec: 2.722952s
+2022-05-07 23:58:12.972 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 100 Loss: 2.710330 Tokens per Sec: 2.749133s
+2022-05-07 23:58:19.536 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 150 Loss: 2.901899 Tokens per Sec: 2.689948s
+2022-05-07 23:58:26.168 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 200 Loss: 2.637022 Tokens per Sec: 2.657619s
+2022-05-07 23:58:32.553 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 250 Loss: 2.883371 Tokens per Sec: 2.731443s
+2022-05-07 23:58:39.041 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 300 Loss: 2.486629 Tokens per Sec: 2.675686s
+2022-05-07 23:58:44.511 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 350 Loss: 2.932698 Tokens per Sec: 3.214992s
+2022-05-07 23:58:49.981 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 400 Loss: 2.652837 Tokens per Sec: 3.180646s
+2022-05-07 23:58:55.177 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 450 Loss: 2.578249 Tokens per Sec: 3.346759s
+2022-05-07 23:58:55.515 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-07 23:58:55.650 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 0 Loss: 2.135323 Tokens per Sec: 2.965316s
+2022-05-07 23:58:59.099 | INFO     | __main__:run_epoch:29 - Epoch 3 Batch: 50 Loss: 3.346243 Tokens per Sec: 4.835797s
+2022-05-07 23:58:59.436 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 2.632100
+2022-05-07 23:58:59.552 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-07 23:58:59.553 | INFO     | __main__:train:60 - Epoch 3 Done
+2022-05-07 23:58:59.756 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 0 Loss: 2.667366 Tokens per Sec: 3.688460s
+2022-05-07 23:59:05.015 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 50 Loss: 2.426413 Tokens per Sec: 3.287237s
+2022-05-07 23:59:10.320 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 100 Loss: 2.529768 Tokens per Sec: 3.301261s
+2022-05-07 23:59:15.513 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 150 Loss: 2.100719 Tokens per Sec: 3.387436s
+2022-05-07 23:59:20.754 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 200 Loss: 2.467523 Tokens per Sec: 3.347641s
+2022-05-07 23:59:25.929 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 250 Loss: 2.545187 Tokens per Sec: 3.399951s
+2022-05-07 23:59:31.167 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 300 Loss: 2.674107 Tokens per Sec: 3.362666s
+2022-05-07 23:59:36.439 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 350 Loss: 2.513060 Tokens per Sec: 3.325370s
+2022-05-07 23:59:41.733 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 400 Loss: 2.304615 Tokens per Sec: 3.287858s
+2022-05-07 23:59:46.941 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 450 Loss: 2.175208 Tokens per Sec: 3.380366s
+2022-05-07 23:59:47.292 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-07 23:59:47.435 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 0 Loss: 1.847074 Tokens per Sec: 2.776663s
+2022-05-07 23:59:50.880 | INFO     | __main__:run_epoch:29 - Epoch 4 Batch: 50 Loss: 3.033670 Tokens per Sec: 4.841474s
+2022-05-07 23:59:51.207 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 2.273617
+2022-05-07 23:59:51.327 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-07 23:59:51.327 | INFO     | __main__:train:60 - Epoch 4 Done
+2022-05-07 23:59:51.541 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 0 Loss: 2.049867 Tokens per Sec: 3.153283s
+2022-05-07 23:59:56.898 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 50 Loss: 2.294965 Tokens per Sec: 3.284828s
+2022-05-08 00:00:02.130 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 100 Loss: 1.992709 Tokens per Sec: 3.332952s
+2022-05-08 00:00:07.355 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 150 Loss: 2.098963 Tokens per Sec: 3.338903s
+2022-05-08 00:00:12.571 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 200 Loss: 2.138120 Tokens per Sec: 3.379747s
+2022-05-08 00:00:17.826 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 250 Loss: 2.356214 Tokens per Sec: 3.372385s
+2022-05-08 00:00:23.056 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 300 Loss: 2.629970 Tokens per Sec: 3.332673s
+2022-05-08 00:00:28.286 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 350 Loss: 2.319367 Tokens per Sec: 3.345686s
+2022-05-08 00:00:33.596 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 400 Loss: 2.058339 Tokens per Sec: 3.342420s
+2022-05-08 00:00:38.957 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 450 Loss: 2.280361 Tokens per Sec: 3.225694s
+2022-05-08 00:00:39.280 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:00:39.415 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 0 Loss: 1.488774 Tokens per Sec: 2.918246s
+2022-05-08 00:00:42.802 | INFO     | __main__:run_epoch:29 - Epoch 5 Batch: 50 Loss: 2.774535 Tokens per Sec: 4.924664s
+2022-05-08 00:00:43.136 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 2.007337
+2022-05-08 00:00:43.257 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:00:43.258 | INFO     | __main__:train:60 - Epoch 5 Done
+2022-05-08 00:00:43.491 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 0 Loss: 1.789738 Tokens per Sec: 3.096000s
+2022-05-08 00:00:48.660 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 50 Loss: 1.806067 Tokens per Sec: 3.346815s
+2022-05-08 00:00:53.894 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 100 Loss: 1.852612 Tokens per Sec: 3.378399s
+2022-05-08 00:00:59.208 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 150 Loss: 1.950912 Tokens per Sec: 3.292035s
+2022-05-08 00:01:04.559 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 200 Loss: 1.880364 Tokens per Sec: 3.317685s
+2022-05-08 00:01:09.906 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 250 Loss: 1.785704 Tokens per Sec: 3.267288s
+2022-05-08 00:01:15.139 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 300 Loss: 1.547031 Tokens per Sec: 3.338918s
+2022-05-08 00:01:20.482 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 350 Loss: 2.011683 Tokens per Sec: 3.277111s
+2022-05-08 00:01:25.720 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 400 Loss: 1.772021 Tokens per Sec: 3.364483s
+2022-05-08 00:01:30.998 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 450 Loss: 1.973863 Tokens per Sec: 3.296894s
+2022-05-08 00:01:31.309 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:01:31.454 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 0 Loss: 1.270348 Tokens per Sec: 2.725389s
+2022-05-08 00:01:34.885 | INFO     | __main__:run_epoch:29 - Epoch 6 Batch: 50 Loss: 2.437316 Tokens per Sec: 4.861001s
+2022-05-08 00:01:35.212 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 1.732805
+2022-05-08 00:01:35.329 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:01:35.329 | INFO     | __main__:train:60 - Epoch 6 Done
+2022-05-08 00:01:35.537 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 0 Loss: 1.404840 Tokens per Sec: 3.400021s
+2022-05-08 00:01:40.768 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 50 Loss: 1.546660 Tokens per Sec: 3.339932s
+2022-05-08 00:01:46.155 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 100 Loss: 1.499379 Tokens per Sec: 3.245072s
+2022-05-08 00:01:51.398 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 150 Loss: 1.751046 Tokens per Sec: 3.338157s
+2022-05-08 00:01:56.561 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 200 Loss: 1.559588 Tokens per Sec: 3.418890s
+2022-05-08 00:02:01.724 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 250 Loss: 1.348556 Tokens per Sec: 3.402829s
+2022-05-08 00:02:06.828 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 300 Loss: 1.840658 Tokens per Sec: 3.414958s
+2022-05-08 00:02:11.967 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 350 Loss: 1.755779 Tokens per Sec: 3.442683s
+2022-05-08 00:02:17.043 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 400 Loss: 1.816718 Tokens per Sec: 3.472674s
+2022-05-08 00:02:22.215 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 450 Loss: 1.866696 Tokens per Sec: 3.352616s
+2022-05-08 00:02:22.531 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:02:22.666 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 0 Loss: 1.140088 Tokens per Sec: 2.922746s
+2022-05-08 00:02:26.068 | INFO     | __main__:run_epoch:29 - Epoch 7 Batch: 50 Loss: 2.200302 Tokens per Sec: 4.902587s
+2022-05-08 00:02:26.395 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 1.544945
+2022-05-08 00:02:26.560 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:02:26.561 | INFO     | __main__:train:60 - Epoch 7 Done
+2022-05-08 00:02:26.767 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 0 Loss: 1.079598 Tokens per Sec: 3.548117s
+2022-05-08 00:02:31.896 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 50 Loss: 1.379277 Tokens per Sec: 3.439258s
+2022-05-08 00:02:37.176 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 100 Loss: 1.144508 Tokens per Sec: 3.306925s
+2022-05-08 00:02:42.394 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 150 Loss: 1.354183 Tokens per Sec: 3.367240s
+2022-05-08 00:02:47.688 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 200 Loss: 1.424827 Tokens per Sec: 3.322174s
+2022-05-08 00:02:53.235 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 250 Loss: 1.394119 Tokens per Sec: 3.122545s
+2022-05-08 00:02:58.440 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 300 Loss: 1.299617 Tokens per Sec: 3.354455s
+2022-05-08 00:03:03.659 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 350 Loss: 1.299626 Tokens per Sec: 3.379453s
+2022-05-08 00:03:08.965 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 400 Loss: 1.676678 Tokens per Sec: 3.301476s
+2022-05-08 00:03:14.256 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 450 Loss: 1.228883 Tokens per Sec: 3.316497s
+2022-05-08 00:03:14.566 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:03:14.719 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 0 Loss: 1.030261 Tokens per Sec: 2.595889s
+2022-05-08 00:03:18.114 | INFO     | __main__:run_epoch:29 - Epoch 8 Batch: 50 Loss: 2.048775 Tokens per Sec: 4.913014s
+2022-05-08 00:03:18.440 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 1.372493
+2022-05-08 00:03:18.555 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:03:18.558 | INFO     | __main__:train:60 - Epoch 8 Done
+2022-05-08 00:03:18.771 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 0 Loss: 0.918514 Tokens per Sec: 3.073657s
+2022-05-08 00:03:24.017 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 50 Loss: 1.243140 Tokens per Sec: 3.334579s
+2022-05-08 00:03:29.336 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 100 Loss: 1.133698 Tokens per Sec: 3.294408s
+2022-05-08 00:03:34.715 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 150 Loss: 1.232322 Tokens per Sec: 3.285008s
+2022-05-08 00:03:39.846 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 200 Loss: 1.272180 Tokens per Sec: 3.441130s
+2022-05-08 00:03:45.106 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 250 Loss: 1.470577 Tokens per Sec: 3.284005s
+2022-05-08 00:03:50.516 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 300 Loss: 1.355335 Tokens per Sec: 3.255523s
+2022-05-08 00:03:56.112 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 350 Loss: 1.123980 Tokens per Sec: 3.100970s
+2022-05-08 00:04:01.414 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 400 Loss: 1.496358 Tokens per Sec: 3.321709s
+2022-05-08 00:04:06.638 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 450 Loss: 1.337631 Tokens per Sec: 3.373132s
+2022-05-08 00:04:06.965 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:04:07.102 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 0 Loss: 0.864146 Tokens per Sec: 2.870855s
+2022-05-08 00:04:10.425 | INFO     | __main__:run_epoch:29 - Epoch 9 Batch: 50 Loss: 1.850709 Tokens per Sec: 5.020863s
+2022-05-08 00:04:10.749 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 1.216629
+2022-05-08 00:04:10.866 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:04:10.866 | INFO     | __main__:train:60 - Epoch 9 Done
+2022-05-08 00:04:11.080 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 0 Loss: 0.832957 Tokens per Sec: 3.553827s
+2022-05-08 00:04:16.255 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 50 Loss: 0.820585 Tokens per Sec: 3.340677s
+2022-05-08 00:04:21.497 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 100 Loss: 0.865437 Tokens per Sec: 3.350516s
+2022-05-08 00:04:26.674 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 150 Loss: 0.883868 Tokens per Sec: 3.392113s
+2022-05-08 00:04:32.000 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 200 Loss: 0.839520 Tokens per Sec: 3.247366s
+2022-05-08 00:04:37.257 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 250 Loss: 1.183576 Tokens per Sec: 3.366374s
+2022-05-08 00:04:42.587 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 300 Loss: 0.962195 Tokens per Sec: 3.287303s
+2022-05-08 00:04:47.783 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 350 Loss: 1.127263 Tokens per Sec: 3.411088s
+2022-05-08 00:04:53.030 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 400 Loss: 1.091247 Tokens per Sec: 3.301892s
+2022-05-08 00:04:58.295 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 450 Loss: 1.369937 Tokens per Sec: 3.362872s
+2022-05-08 00:04:58.616 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:04:58.803 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 0 Loss: 0.763112 Tokens per Sec: 2.128400s
+2022-05-08 00:05:02.523 | INFO     | __main__:run_epoch:29 - Epoch 10 Batch: 50 Loss: 1.619377 Tokens per Sec: 4.483078s
+2022-05-08 00:05:02.858 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 1.076517
+2022-05-08 00:05:02.940 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:05:02.940 | INFO     | __main__:train:60 - Epoch 10 Done
+2022-05-08 00:05:03.219 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 0 Loss: 0.660897 Tokens per Sec: 2.461330s
+2022-05-08 00:05:08.691 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 50 Loss: 0.766169 Tokens per Sec: 3.201045s
+2022-05-08 00:05:14.114 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 100 Loss: 0.865251 Tokens per Sec: 3.302195s
+2022-05-08 00:05:19.448 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 150 Loss: 0.825889 Tokens per Sec: 3.312970s
+2022-05-08 00:05:24.750 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 200 Loss: 0.802476 Tokens per Sec: 3.282287s
+2022-05-08 00:05:30.092 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 250 Loss: 1.030194 Tokens per Sec: 3.246536s
+2022-05-08 00:05:35.329 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 300 Loss: 0.940135 Tokens per Sec: 3.350234s
+2022-05-08 00:05:40.491 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 350 Loss: 0.954889 Tokens per Sec: 3.406620s
+2022-05-08 00:05:45.712 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 400 Loss: 1.010917 Tokens per Sec: 3.296242s
+2022-05-08 00:05:50.850 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 450 Loss: 1.195252 Tokens per Sec: 3.421223s
+2022-05-08 00:05:51.153 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:05:51.283 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 0 Loss: 0.757780 Tokens per Sec: 3.030983s
+2022-05-08 00:05:54.911 | INFO     | __main__:run_epoch:29 - Epoch 11 Batch: 50 Loss: 1.443049 Tokens per Sec: 4.596519s
+2022-05-08 00:05:55.314 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.962827
+2022-05-08 00:05:55.436 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:05:55.436 | INFO     | __main__:train:60 - Epoch 11 Done
+2022-05-08 00:05:55.662 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 0 Loss: 0.668435 Tokens per Sec: 2.995019s
+2022-05-08 00:06:01.195 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 50 Loss: 0.604836 Tokens per Sec: 3.164532s
+2022-05-08 00:06:07.001 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 100 Loss: 0.754981 Tokens per Sec: 3.027007s
+2022-05-08 00:06:13.003 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 150 Loss: 0.881196 Tokens per Sec: 2.912227s
+2022-05-08 00:06:18.604 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 200 Loss: 0.701014 Tokens per Sec: 3.140091s
+2022-05-08 00:06:24.348 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 250 Loss: 0.759513 Tokens per Sec: 3.042989s
+2022-05-08 00:06:30.172 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 300 Loss: 0.886695 Tokens per Sec: 3.010160s
+2022-05-08 00:06:35.770 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 350 Loss: 0.789336 Tokens per Sec: 3.118925s
+2022-05-08 00:06:41.255 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 400 Loss: 0.845644 Tokens per Sec: 3.189441s
+2022-05-08 00:06:46.497 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 450 Loss: 0.941758 Tokens per Sec: 3.367633s
+2022-05-08 00:06:46.814 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:06:46.983 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 0 Loss: 0.594916 Tokens per Sec: 2.334392s
+2022-05-08 00:06:50.342 | INFO     | __main__:run_epoch:29 - Epoch 12 Batch: 50 Loss: 1.353349 Tokens per Sec: 4.966478s
+2022-05-08 00:06:50.672 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.851992
+2022-05-08 00:06:50.789 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:06:50.790 | INFO     | __main__:train:60 - Epoch 12 Done
+2022-05-08 00:06:51.017 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 0 Loss: 0.675491 Tokens per Sec: 3.146608s
+2022-05-08 00:06:56.239 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 50 Loss: 0.724882 Tokens per Sec: 3.363094s
+2022-05-08 00:07:01.540 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 100 Loss: 0.580840 Tokens per Sec: 3.356695s
+2022-05-08 00:07:06.951 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 150 Loss: 0.880748 Tokens per Sec: 3.217588s
+2022-05-08 00:07:12.362 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 200 Loss: 0.736609 Tokens per Sec: 3.197305s
+2022-05-08 00:07:17.828 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 250 Loss: 0.947289 Tokens per Sec: 3.210359s
+2022-05-08 00:07:22.961 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 300 Loss: 0.911404 Tokens per Sec: 3.441479s
+2022-05-08 00:07:28.163 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 350 Loss: 0.723148 Tokens per Sec: 3.368699s
+2022-05-08 00:07:33.365 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 400 Loss: 0.711180 Tokens per Sec: 3.370959s
+2022-05-08 00:07:38.602 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 450 Loss: 0.928966 Tokens per Sec: 3.327333s
+2022-05-08 00:07:38.909 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:07:39.045 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 0 Loss: 0.609016 Tokens per Sec: 2.916165s
+2022-05-08 00:07:42.397 | INFO     | __main__:run_epoch:29 - Epoch 13 Batch: 50 Loss: 1.142499 Tokens per Sec: 4.975685s
+2022-05-08 00:07:42.725 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.747525
+2022-05-08 00:07:42.842 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:07:42.842 | INFO     | __main__:train:60 - Epoch 13 Done
+2022-05-08 00:07:43.060 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 0 Loss: 0.523477 Tokens per Sec: 3.061134s
+2022-05-08 00:07:48.370 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 50 Loss: 0.557031 Tokens per Sec: 3.332613s
+2022-05-08 00:07:53.592 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 100 Loss: 0.638761 Tokens per Sec: 3.344305s
+2022-05-08 00:07:58.886 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 150 Loss: 0.638496 Tokens per Sec: 3.324119s
+2022-05-08 00:08:04.148 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 200 Loss: 0.639261 Tokens per Sec: 3.347836s
+2022-05-08 00:08:09.401 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 250 Loss: 0.667682 Tokens per Sec: 3.325992s
+2022-05-08 00:08:14.561 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 300 Loss: 0.577934 Tokens per Sec: 3.372660s
+2022-05-08 00:08:20.076 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 350 Loss: 0.885918 Tokens per Sec: 3.172477s
+2022-05-08 00:08:25.422 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 400 Loss: 0.651713 Tokens per Sec: 3.274156s
+2022-05-08 00:08:30.662 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 450 Loss: 0.699412 Tokens per Sec: 3.349962s
+2022-05-08 00:08:30.968 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:08:31.099 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 0 Loss: 0.484606 Tokens per Sec: 3.001477s
+2022-05-08 00:08:34.427 | INFO     | __main__:run_epoch:29 - Epoch 14 Batch: 50 Loss: 1.060094 Tokens per Sec: 5.011988s
+2022-05-08 00:08:34.755 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.649977
+2022-05-08 00:08:34.871 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:08:34.871 | INFO     | __main__:train:60 - Epoch 14 Done
+2022-05-08 00:08:35.079 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 0 Loss: 0.421645 Tokens per Sec: 3.312837s
+2022-05-08 00:08:40.465 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 50 Loss: 0.413964 Tokens per Sec: 3.210287s
+2022-05-08 00:08:45.761 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 100 Loss: 0.568897 Tokens per Sec: 3.331399s
+2022-05-08 00:08:51.008 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 150 Loss: 0.657117 Tokens per Sec: 3.316176s
+2022-05-08 00:08:56.258 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 200 Loss: 0.709248 Tokens per Sec: 3.363004s
+2022-05-08 00:09:01.550 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 250 Loss: 0.513739 Tokens per Sec: 3.291151s
+2022-05-08 00:09:06.876 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 300 Loss: 0.797020 Tokens per Sec: 3.317713s
+2022-05-08 00:09:12.035 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 350 Loss: 0.688945 Tokens per Sec: 3.427208s
+2022-05-08 00:09:17.344 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 400 Loss: 0.793242 Tokens per Sec: 3.344743s
+2022-05-08 00:09:22.610 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 450 Loss: 0.696281 Tokens per Sec: 3.278184s
+2022-05-08 00:09:22.965 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:09:23.097 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 0 Loss: 0.476302 Tokens per Sec: 2.989385s
+2022-05-08 00:09:26.559 | INFO     | __main__:run_epoch:29 - Epoch 15 Batch: 50 Loss: 0.874494 Tokens per Sec: 4.819579s
+2022-05-08 00:09:26.882 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.573107
+2022-05-08 00:09:26.998 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:09:26.998 | INFO     | __main__:train:60 - Epoch 15 Done
+2022-05-08 00:09:27.204 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 0 Loss: 0.488174 Tokens per Sec: 3.637216s
+2022-05-08 00:09:32.492 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 50 Loss: 0.509825 Tokens per Sec: 3.291222s
+2022-05-08 00:09:37.753 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 100 Loss: 0.423489 Tokens per Sec: 3.356533s
+2022-05-08 00:09:43.201 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 150 Loss: 0.608081 Tokens per Sec: 3.208697s
+2022-05-08 00:09:48.404 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 200 Loss: 0.490827 Tokens per Sec: 3.388490s
+2022-05-08 00:09:53.609 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 250 Loss: 0.572199 Tokens per Sec: 3.330889s
+2022-05-08 00:09:58.829 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 300 Loss: 0.709023 Tokens per Sec: 3.359192s
+2022-05-08 00:10:04.068 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 350 Loss: 0.577040 Tokens per Sec: 3.352604s
+2022-05-08 00:10:09.282 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 400 Loss: 0.599606 Tokens per Sec: 3.336464s
+2022-05-08 00:10:14.416 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 450 Loss: 0.573146 Tokens per Sec: 3.437890s
+2022-05-08 00:10:14.725 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:10:14.854 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 0 Loss: 0.377662 Tokens per Sec: 3.035125s
+2022-05-08 00:10:18.192 | INFO     | __main__:run_epoch:29 - Epoch 16 Batch: 50 Loss: 0.817820 Tokens per Sec: 5.000355s
+2022-05-08 00:10:18.558 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.502995
+2022-05-08 00:10:18.673 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:10:18.673 | INFO     | __main__:train:60 - Epoch 16 Done
+2022-05-08 00:10:18.886 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 0 Loss: 0.429080 Tokens per Sec: 3.505721s
+2022-05-08 00:10:24.195 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 50 Loss: 0.392725 Tokens per Sec: 3.294085s
+2022-05-08 00:10:29.350 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 100 Loss: 0.454397 Tokens per Sec: 3.401801s
+2022-05-08 00:10:34.701 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 150 Loss: 0.540109 Tokens per Sec: 3.248936s
+2022-05-08 00:10:39.899 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 200 Loss: 0.399441 Tokens per Sec: 3.363591s
+2022-05-08 00:10:45.325 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 250 Loss: 0.487600 Tokens per Sec: 3.276430s
+2022-05-08 00:10:50.974 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 300 Loss: 0.660614 Tokens per Sec: 3.108773s
+2022-05-08 00:10:56.753 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 350 Loss: 0.394060 Tokens per Sec: 3.022453s
+2022-05-08 00:11:02.071 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 400 Loss: 0.531892 Tokens per Sec: 3.304972s
+2022-05-08 00:11:07.440 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 450 Loss: 0.514835 Tokens per Sec: 3.241281s
+2022-05-08 00:11:07.809 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:11:07.942 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 0 Loss: 0.305668 Tokens per Sec: 2.965731s
+2022-05-08 00:11:11.282 | INFO     | __main__:run_epoch:29 - Epoch 17 Batch: 50 Loss: 0.668319 Tokens per Sec: 4.993888s
+2022-05-08 00:11:11.608 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.442902
+2022-05-08 00:11:11.726 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:11:11.726 | INFO     | __main__:train:60 - Epoch 17 Done
+2022-05-08 00:11:11.937 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 0 Loss: 0.360937 Tokens per Sec: 3.541137s
+2022-05-08 00:11:17.257 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 50 Loss: 0.441192 Tokens per Sec: 3.265301s
+2022-05-08 00:11:22.548 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 100 Loss: 0.355583 Tokens per Sec: 3.314139s
+2022-05-08 00:11:27.770 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 150 Loss: 0.374888 Tokens per Sec: 3.355521s
+2022-05-08 00:11:32.992 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 200 Loss: 0.561989 Tokens per Sec: 3.351022s
+2022-05-08 00:11:38.372 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 250 Loss: 0.511384 Tokens per Sec: 3.294089s
+2022-05-08 00:11:43.651 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 300 Loss: 0.346592 Tokens per Sec: 3.310371s
+2022-05-08 00:11:49.014 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 350 Loss: 0.497980 Tokens per Sec: 3.241997s
+2022-05-08 00:11:54.277 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 400 Loss: 0.460691 Tokens per Sec: 3.360590s
+2022-05-08 00:11:59.471 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 450 Loss: 0.466306 Tokens per Sec: 3.381294s
+2022-05-08 00:11:59.787 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:11:59.919 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 0 Loss: 0.344988 Tokens per Sec: 2.993468s
+2022-05-08 00:12:03.336 | INFO     | __main__:run_epoch:29 - Epoch 18 Batch: 50 Loss: 0.621555 Tokens per Sec: 4.882190s
+2022-05-08 00:12:03.661 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.402948
+2022-05-08 00:12:03.777 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:12:03.777 | INFO     | __main__:train:60 - Epoch 18 Done
+2022-05-08 00:12:03.980 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 0 Loss: 0.283192 Tokens per Sec: 3.567313s
+2022-05-08 00:12:09.233 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 50 Loss: 0.395399 Tokens per Sec: 3.302587s
+2022-05-08 00:12:14.432 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 100 Loss: 0.295227 Tokens per Sec: 3.371455s
+2022-05-08 00:12:19.743 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 150 Loss: 0.348835 Tokens per Sec: 3.345367s
+2022-05-08 00:12:25.049 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 200 Loss: 0.338141 Tokens per Sec: 3.304234s
+2022-05-08 00:12:30.250 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 250 Loss: 0.387098 Tokens per Sec: 3.350710s
+2022-05-08 00:12:35.583 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 300 Loss: 0.519187 Tokens per Sec: 3.275245s
+2022-05-08 00:12:40.820 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 350 Loss: 0.533389 Tokens per Sec: 3.348862s
+2022-05-08 00:12:46.072 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 400 Loss: 0.443381 Tokens per Sec: 3.345180s
+2022-05-08 00:12:51.222 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 450 Loss: 0.471332 Tokens per Sec: 3.407624s
+2022-05-08 00:12:51.560 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:12:51.692 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 0 Loss: 0.248849 Tokens per Sec: 2.991788s
+2022-05-08 00:12:55.039 | INFO     | __main__:run_epoch:29 - Epoch 19 Batch: 50 Loss: 0.517493 Tokens per Sec: 4.983150s
+2022-05-08 00:12:55.371 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.349229
+2022-05-08 00:12:55.483 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:12:55.484 | INFO     | __main__:train:60 - Epoch 19 Done
+2022-05-08 00:12:55.731 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 0 Loss: 0.227455 Tokens per Sec: 2.831806s
+2022-05-08 00:13:00.906 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 50 Loss: 0.238694 Tokens per Sec: 3.404144s
+2022-05-08 00:13:06.173 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 100 Loss: 0.313999 Tokens per Sec: 3.345298s
+2022-05-08 00:13:11.461 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 150 Loss: 0.384822 Tokens per Sec: 3.318242s
+2022-05-08 00:13:16.637 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 200 Loss: 0.284909 Tokens per Sec: 3.406232s
+2022-05-08 00:13:21.902 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 250 Loss: 0.377614 Tokens per Sec: 3.345702s
+2022-05-08 00:13:27.036 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 300 Loss: 0.369875 Tokens per Sec: 3.420524s
+2022-05-08 00:13:32.282 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 350 Loss: 0.494506 Tokens per Sec: 3.313376s
+2022-05-08 00:13:37.518 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 400 Loss: 0.462165 Tokens per Sec: 3.332129s
+2022-05-08 00:13:42.987 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 450 Loss: 0.536490 Tokens per Sec: 3.172816s
+2022-05-08 00:13:43.308 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:13:43.440 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 0 Loss: 0.280929 Tokens per Sec: 3.001651s
+2022-05-08 00:13:46.801 | INFO     | __main__:run_epoch:29 - Epoch 20 Batch: 50 Loss: 0.422307 Tokens per Sec: 4.963800s
+2022-05-08 00:13:47.123 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.314667
+2022-05-08 00:13:47.240 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:13:47.240 | INFO     | __main__:train:60 - Epoch 20 Done
+2022-05-08 00:13:47.457 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 0 Loss: 0.262209 Tokens per Sec: 3.187673s
+2022-05-08 00:13:52.829 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 50 Loss: 0.291546 Tokens per Sec: 3.306282s
+2022-05-08 00:13:58.079 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 100 Loss: 0.352662 Tokens per Sec: 3.301975s
+2022-05-08 00:14:03.270 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 150 Loss: 0.291383 Tokens per Sec: 3.370974s
+2022-05-08 00:14:08.428 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 200 Loss: 0.318098 Tokens per Sec: 3.387359s
+2022-05-08 00:14:13.567 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 250 Loss: 0.363701 Tokens per Sec: 3.443090s
+2022-05-08 00:14:19.138 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 300 Loss: 0.356471 Tokens per Sec: 3.127843s
+2022-05-08 00:14:24.952 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 350 Loss: 0.376292 Tokens per Sec: 3.010843s
+2022-05-08 00:14:30.328 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 400 Loss: 0.359375 Tokens per Sec: 3.274029s
+2022-05-08 00:14:35.738 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 450 Loss: 0.439872 Tokens per Sec: 3.231873s
+2022-05-08 00:14:36.069 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:14:36.203 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 0 Loss: 0.226307 Tokens per Sec: 2.939440s
+2022-05-08 00:14:39.891 | INFO     | __main__:run_epoch:29 - Epoch 21 Batch: 50 Loss: 0.391547 Tokens per Sec: 4.524742s
+2022-05-08 00:14:40.246 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.282842
+2022-05-08 00:14:40.362 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:14:40.362 | INFO     | __main__:train:60 - Epoch 21 Done
+2022-05-08 00:14:40.569 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 0 Loss: 0.256272 Tokens per Sec: 3.325735s
+2022-05-08 00:14:45.861 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 50 Loss: 0.235544 Tokens per Sec: 3.302966s
+2022-05-08 00:14:51.161 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 100 Loss: 0.285828 Tokens per Sec: 3.335172s
+2022-05-08 00:14:56.482 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 150 Loss: 0.329804 Tokens per Sec: 3.288290s
+2022-05-08 00:15:01.910 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 200 Loss: 0.312192 Tokens per Sec: 3.248419s
+2022-05-08 00:15:07.204 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 250 Loss: 0.325065 Tokens per Sec: 3.344498s
+2022-05-08 00:15:12.703 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 300 Loss: 0.324730 Tokens per Sec: 3.132370s
+2022-05-08 00:15:18.900 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 350 Loss: 0.378254 Tokens per Sec: 2.804370s
+2022-05-08 00:15:24.493 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 400 Loss: 0.275982 Tokens per Sec: 3.145618s
+2022-05-08 00:15:30.251 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 450 Loss: 0.395119 Tokens per Sec: 3.052282s
+2022-05-08 00:15:30.592 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:15:30.729 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 0 Loss: 0.201366 Tokens per Sec: 2.886510s
+2022-05-08 00:15:34.709 | INFO     | __main__:run_epoch:29 - Epoch 22 Batch: 50 Loss: 0.356235 Tokens per Sec: 4.190802s
+2022-05-08 00:15:35.203 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.255332
+2022-05-08 00:15:35.330 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:15:35.330 | INFO     | __main__:train:60 - Epoch 22 Done
+2022-05-08 00:15:35.544 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 0 Loss: 0.195594 Tokens per Sec: 3.092888s
+2022-05-08 00:15:41.071 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 50 Loss: 0.229471 Tokens per Sec: 3.157473s
+2022-05-08 00:15:46.457 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 100 Loss: 0.289846 Tokens per Sec: 3.241477s
+2022-05-08 00:15:51.791 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 150 Loss: 0.235012 Tokens per Sec: 3.319512s
+2022-05-08 00:15:57.282 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 200 Loss: 0.292358 Tokens per Sec: 3.211802s
+2022-05-08 00:16:02.746 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 250 Loss: 0.255314 Tokens per Sec: 3.198055s
+2022-05-08 00:16:08.123 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 300 Loss: 0.306238 Tokens per Sec: 3.267941s
+2022-05-08 00:16:13.412 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 350 Loss: 0.346548 Tokens per Sec: 3.310461s
+2022-05-08 00:16:18.542 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 400 Loss: 0.424506 Tokens per Sec: 3.389880s
+2022-05-08 00:16:23.702 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 450 Loss: 0.404689 Tokens per Sec: 3.408732s
+2022-05-08 00:16:24.016 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:16:24.147 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 0 Loss: 0.192369 Tokens per Sec: 3.026809s
+2022-05-08 00:16:27.504 | INFO     | __main__:run_epoch:29 - Epoch 23 Batch: 50 Loss: 0.344854 Tokens per Sec: 4.969411s
+2022-05-08 00:16:27.846 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.234847
+2022-05-08 00:16:27.960 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:16:27.960 | INFO     | __main__:train:60 - Epoch 23 Done
+2022-05-08 00:16:28.162 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 0 Loss: 0.185193 Tokens per Sec: 3.715168s
+2022-05-08 00:16:33.345 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 50 Loss: 0.231193 Tokens per Sec: 3.371442s
+2022-05-08 00:16:38.602 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 100 Loss: 0.232367 Tokens per Sec: 3.343081s
+2022-05-08 00:16:43.731 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 150 Loss: 0.258512 Tokens per Sec: 3.455416s
+2022-05-08 00:16:48.982 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 200 Loss: 0.302858 Tokens per Sec: 3.305398s
+2022-05-08 00:16:54.129 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 250 Loss: 0.265454 Tokens per Sec: 3.399950s
+2022-05-08 00:17:00.125 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 300 Loss: 0.290712 Tokens per Sec: 2.951968s
+2022-05-08 00:17:06.035 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 350 Loss: 0.318200 Tokens per Sec: 2.940677s
+2022-05-08 00:17:11.384 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 400 Loss: 0.313013 Tokens per Sec: 3.277743s
+2022-05-08 00:17:16.829 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 450 Loss: 0.227336 Tokens per Sec: 3.214760s
+2022-05-08 00:17:17.136 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:17:17.273 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 0 Loss: 0.159869 Tokens per Sec: 2.887988s
+2022-05-08 00:17:20.905 | INFO     | __main__:run_epoch:29 - Epoch 24 Batch: 50 Loss: 0.297189 Tokens per Sec: 4.592170s
+2022-05-08 00:17:21.291 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.218416
+2022-05-08 00:17:21.413 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:17:21.413 | INFO     | __main__:train:60 - Epoch 24 Done
+2022-05-08 00:17:21.634 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 0 Loss: 0.187277 Tokens per Sec: 3.280746s
+2022-05-08 00:17:27.228 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 50 Loss: 0.175025 Tokens per Sec: 3.160290s
+2022-05-08 00:17:32.907 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 100 Loss: 0.235822 Tokens per Sec: 3.078046s
+2022-05-08 00:17:38.509 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 150 Loss: 0.247336 Tokens per Sec: 3.132597s
+2022-05-08 00:17:44.287 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 200 Loss: 0.281366 Tokens per Sec: 3.028349s
+2022-05-08 00:17:50.158 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 250 Loss: 0.287386 Tokens per Sec: 2.957835s
+2022-05-08 00:17:55.921 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 300 Loss: 0.309942 Tokens per Sec: 3.016791s
+2022-05-08 00:18:01.598 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 350 Loss: 0.275629 Tokens per Sec: 3.101193s
+2022-05-08 00:18:07.404 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 400 Loss: 0.314349 Tokens per Sec: 3.054411s
+2022-05-08 00:18:13.316 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 450 Loss: 0.270262 Tokens per Sec: 2.948062s
+2022-05-08 00:18:13.641 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:18:13.783 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 0 Loss: 0.144078 Tokens per Sec: 2.771071s
+2022-05-08 00:18:17.454 | INFO     | __main__:run_epoch:29 - Epoch 25 Batch: 50 Loss: 0.307847 Tokens per Sec: 4.544543s
+2022-05-08 00:18:17.833 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.198296
+2022-05-08 00:18:17.961 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:18:17.961 | INFO     | __main__:train:60 - Epoch 25 Done
+2022-05-08 00:18:18.189 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 0 Loss: 0.208592 Tokens per Sec: 3.055390s
+2022-05-08 00:18:23.990 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 50 Loss: 0.231252 Tokens per Sec: 3.064929s
+2022-05-08 00:18:29.781 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 100 Loss: 0.224154 Tokens per Sec: 3.049137s
+2022-05-08 00:18:35.586 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 150 Loss: 0.212607 Tokens per Sec: 3.036094s
+2022-05-08 00:18:41.036 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 200 Loss: 0.188046 Tokens per Sec: 3.192708s
+2022-05-08 00:18:46.608 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 250 Loss: 0.279295 Tokens per Sec: 3.143387s
+2022-05-08 00:18:52.430 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 300 Loss: 0.328310 Tokens per Sec: 3.012799s
+2022-05-08 00:18:58.191 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 350 Loss: 0.213229 Tokens per Sec: 3.043315s
+2022-05-08 00:19:03.814 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 400 Loss: 0.272224 Tokens per Sec: 3.087555s
+2022-05-08 00:19:09.544 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 450 Loss: 0.264910 Tokens per Sec: 3.018683s
+2022-05-08 00:19:09.862 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:19:10.027 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 0 Loss: 0.097594 Tokens per Sec: 2.389329s
+2022-05-08 00:19:13.834 | INFO     | __main__:run_epoch:29 - Epoch 26 Batch: 50 Loss: 0.238229 Tokens per Sec: 4.381703s
+2022-05-08 00:19:14.174 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.176894
+2022-05-08 00:19:14.293 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:19:14.293 | INFO     | __main__:train:60 - Epoch 26 Done
+2022-05-08 00:19:14.505 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 0 Loss: 0.216990 Tokens per Sec: 3.291934s
+2022-05-08 00:19:20.110 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 50 Loss: 0.201423 Tokens per Sec: 3.113944s
+2022-05-08 00:19:25.489 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 100 Loss: 0.240759 Tokens per Sec: 3.252079s
+2022-05-08 00:19:31.075 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 150 Loss: 0.262231 Tokens per Sec: 3.137859s
+2022-05-08 00:19:36.566 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 200 Loss: 0.200433 Tokens per Sec: 3.191197s
+2022-05-08 00:19:42.001 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 250 Loss: 0.230215 Tokens per Sec: 3.201444s
+2022-05-08 00:19:47.791 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 300 Loss: 0.215645 Tokens per Sec: 2.999407s
+2022-05-08 00:19:53.108 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 350 Loss: 0.244810 Tokens per Sec: 3.313669s
+2022-05-08 00:19:58.350 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 400 Loss: 0.279863 Tokens per Sec: 3.395295s
+2022-05-08 00:20:03.540 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 450 Loss: 0.255977 Tokens per Sec: 3.388540s
+2022-05-08 00:20:03.859 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:20:03.989 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 0 Loss: 0.153097 Tokens per Sec: 3.051378s
+2022-05-08 00:20:07.338 | INFO     | __main__:run_epoch:29 - Epoch 27 Batch: 50 Loss: 0.206692 Tokens per Sec: 4.981167s
+2022-05-08 00:20:07.686 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.165330
+2022-05-08 00:20:07.800 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:20:07.800 | INFO     | __main__:train:60 - Epoch 27 Done
+2022-05-08 00:20:08.023 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 0 Loss: 0.167862 Tokens per Sec: 3.151690s
+2022-05-08 00:20:13.222 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 50 Loss: 0.209782 Tokens per Sec: 3.363589s
+2022-05-08 00:20:18.385 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 100 Loss: 0.261521 Tokens per Sec: 3.418382s
+2022-05-08 00:20:23.582 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 150 Loss: 0.167286 Tokens per Sec: 3.379155s
+2022-05-08 00:20:28.880 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 200 Loss: 0.232394 Tokens per Sec: 3.337275s
+2022-05-08 00:20:34.049 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 250 Loss: 0.236425 Tokens per Sec: 3.355066s
+2022-05-08 00:20:39.262 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 300 Loss: 0.227375 Tokens per Sec: 3.333725s
+2022-05-08 00:20:44.542 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 350 Loss: 0.264558 Tokens per Sec: 3.298063s
+2022-05-08 00:20:49.664 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 400 Loss: 0.291619 Tokens per Sec: 3.446867s
+2022-05-08 00:20:55.033 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 450 Loss: 0.387557 Tokens per Sec: 3.271932s
+2022-05-08 00:20:55.342 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:20:55.478 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 0 Loss: 0.120273 Tokens per Sec: 2.913404s
+2022-05-08 00:20:58.933 | INFO     | __main__:run_epoch:29 - Epoch 28 Batch: 50 Loss: 0.204969 Tokens per Sec: 4.826931s
+2022-05-08 00:20:59.257 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.162064
+2022-05-08 00:20:59.372 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:20:59.372 | INFO     | __main__:train:60 - Epoch 28 Done
+2022-05-08 00:20:59.592 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 0 Loss: 0.165444 Tokens per Sec: 3.039467s
+2022-05-08 00:21:04.792 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 50 Loss: 0.201722 Tokens per Sec: 3.349455s
+2022-05-08 00:21:10.049 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 100 Loss: 0.221610 Tokens per Sec: 3.367426s
+2022-05-08 00:21:15.245 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 150 Loss: 0.131916 Tokens per Sec: 3.361680s
+2022-05-08 00:21:20.651 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 200 Loss: 0.117309 Tokens per Sec: 3.219957s
+2022-05-08 00:21:27.170 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 250 Loss: 0.236348 Tokens per Sec: 2.723415s
+2022-05-08 00:21:32.455 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 300 Loss: 0.196717 Tokens per Sec: 3.282089s
+2022-05-08 00:21:37.687 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 350 Loss: 0.314687 Tokens per Sec: 3.332071s
+2022-05-08 00:21:43.019 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 400 Loss: 0.245711 Tokens per Sec: 3.303839s
+2022-05-08 00:21:48.433 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 450 Loss: 0.190019 Tokens per Sec: 3.254231s
+2022-05-08 00:21:48.744 | INFO     | __main__:train:50 - >>>>> Evaluate
+2022-05-08 00:21:48.887 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 0 Loss: 0.118196 Tokens per Sec: 2.769032s
+2022-05-08 00:21:52.358 | INFO     | __main__:run_epoch:29 - Epoch 29 Batch: 50 Loss: 0.223547 Tokens per Sec: 4.805516s
+2022-05-08 00:21:52.681 | INFO     | __main__:train:52 - <<<<< Evaluate loss: 0.144575
+2022-05-08 00:21:52.799 | INFO     | __main__:train:58 - ****** Save model done... ******
+2022-05-08 00:21:52.799 | INFO     | __main__:train:60 - Epoch 29 Done
+2022-05-08 00:21:52.799 | INFO     | __main__:<module>:105 - <<<<<<< finished train, cost 1601.4088 seconds
+2022-05-08 00:21:52.887 | INFO     | __main__:<module>:111 - >>>>>>> start evaluate

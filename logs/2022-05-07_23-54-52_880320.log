@@ -1,0 +1,3 @@
+2022-05-07 23:54:52.882 | INFO     | __main__:<module>:77 - Successfully load processor...
+2022-05-07 23:54:57.603 | INFO     | __main__:<module>:99 - >>>>>>> start train
+2022-05-07 23:54:58.092 | INFO     | __main__:run_epoch:29 - Epoch 0 Batch: 0 Loss: 7.856046 Tokens per Sec: 1.363352s

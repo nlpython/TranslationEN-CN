@@ -1,0 +1,18 @@
+{
+  "PAD": 0,
+  "UNK": 1,
+  "batch_size": 32,
+  "epochs": 30,
+  "layers": 6,
+  "heads": 8,
+  "d_model": 256,
+  "d_ff": 1024,
+  "dropout": 0.1,
+  "max_len": 512,
+  "max_vocab_size": 5e4,
+
+  "processor_path": "checkpoints/processor.pkl",
+  "train_file": "nmt/en-cn/train.txt",
+  "dev_file": "nmt/en-cn/dev.txt",
+  "saved_path": "checkpoints/model.pth"
+}
